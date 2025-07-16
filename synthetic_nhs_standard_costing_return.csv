@@ -1,0 +1,6 @@
+Service Type,Average Cost (£),Upper Quartile (£),Lower Quartile (£),Trust Cost (£)
+A&E Attendance,469.04,424.16,344.99,396.49
+Elective Inpatient,405.41,521.28,304.69,425.63
+Non-Elective Inpatient,419.55,409.38,347.05,512.57
+Outpatient Attendance,311.58,428.94,362.53,401.2
+Imaging,544.31,477.43,297.78,303.16
